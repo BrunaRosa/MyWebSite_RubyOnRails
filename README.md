@@ -4,12 +4,6 @@ Essa aplicação foi criada para treinar o que aprendi sobre Ruby on Rails na Co
 
 <br>
 
-<h2>Para acessar o site:</h2>
-
-<blockquote><b>Git page: ()</b></blockquote>
-
-<br>
-
 <h2>Pré- requisitos</h2>
 
 Esse projeto não é necessário instalar nenhum framework ou linguagem:
@@ -48,7 +42,7 @@ Esse projeto não é necessário instalar nenhum framework ou linguagem:
 
 <ul>
 
-<li>[CodeCademy] ()</li>
+<li>[CodeCademy]</li>
 
 </ul>
 
